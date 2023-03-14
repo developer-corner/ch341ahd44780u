@@ -20,8 +20,9 @@ It comes with very good support for MS Windows but lacks support for Linux. This
 ## What this software provides
 1. Linux kernel module (device driver);
 2. userland library with software scrolling support;
-3. command line tool for programming the LCD display.
-4. Up to eight user-defined dot matrices can be programmed as user-defined characters.
+3. command line tool for programming the LCD display;
+4. Up to eight user-defined dot matrices can be programmed as user-defined characters;
+5. udev rules.
 
 ## Documentation
 Please read the accompanying PDF document and consult the source code. The kernel driver is documented as well as the userland library (Doxygen-style comments).
