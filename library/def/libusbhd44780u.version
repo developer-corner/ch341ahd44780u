@@ -1,0 +1,21 @@
+{
+  global:
+   
+    ch341a_hd44780u_open;
+    ch341a_hd44780u_close;
+    ch341a_hd44780u_configure;
+    ch341a_hd44780u_clear;
+    ch341a_hd44780u_setcursorpos;
+    ch341a_hd44780u_getcursorpos;
+    ch341a_hd44780u_autoscroll;
+    ch341a_hd44780u_scroll;
+    ch341a_hd44780u_print;
+    ch341a_hd44780u_get_displaybuffer;
+    ch341a_hd44780u_program_cgram;
+    ch341a_hd44780u_program_german_umlauts;
+    
+  local: *;         # hide everything else
+}; 
+  
+
+

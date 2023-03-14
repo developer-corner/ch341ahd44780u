@@ -1,0 +1,1 @@
+ACTION=="add", KERNEL=="hd44780u_dp*", MODE="0666"
